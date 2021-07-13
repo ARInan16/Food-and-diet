@@ -1,0 +1,39 @@
+body{
+    font-family:'Oswald', sans-serif; ;
+}
+h1{
+    font-size: 60px;
+}
+span{
+    color:orange;
+}
+.upper{
+    display: flex;
+    margin-bottom: 150px;
+}
+.lower{
+    display: flex;
+    margin-bottom: 150px;
+    background-image: url(img/7.png);
+    padding: 20px 250px 0px;
+
+}
+.half{
+    width: 80%;
+    padding-left: 5%;
+}
+.half img{
+    width:80%;
+}
+.button{
+    text-decoration: none;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(117, 117, 185);
+    background-image:linear-gradient(yellow,red) ;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+#pic{
+    width: 50%;
+}
