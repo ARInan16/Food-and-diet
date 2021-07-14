@@ -52,7 +52,27 @@ span{
 .parts{
     display: flex;
     width: 100%;
+    margin-bottom: 150px;
 }
 .fimg{
     width: 80%;
+}
+.junk{
+    display: flex;
+    margin-bottom: 150px;
+    background-image:url(img/back.jpg) ;
+}
+.salad{
+    display: flex;
+    margin-bottom: 150px;
+}
+.foot{
+    text-align: center;
+    background-color: black;
+}
+#End{
+    color:wheat ;
+}
+h2{
+    color: thistle;
 }
